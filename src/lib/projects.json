@@ -1,8 +1,16 @@
 [
     {
-        "title": "🌍 SpotsToFly",
+        "title": "🚀 SpotsToFly",
         "description": "MVP Product to Create/View Spots to Fly Drones!",
-        "url": "https://spotstofly.robertovalente.pt",
+        "url": "https://spotstofly.com",
+        "githubUrl": "",
+        "logo": "",
+        "status": true
+    },
+    {
+        "title": "🌍 Comunidade FPV - Portugal",
+        "description": "Futuramente, a comunidade de FPV em Portugal!",
+        "url": "https://comunidadefpv.pt",
         "githubUrl": "",
         "logo": "",
         "status": true
@@ -10,7 +18,7 @@
     {
         "title": "📬 ProblemHunt",
         "description": "Show/Submit Problems to be Solved by Developers!",
-        "url": "https://problemhunt.site",
+        "url": "https://problemhunt.robertovalente.pt",
         "githubUrl": "https://github.com/RobertoValente/ProblemHunt",
         "logo": "",
         "status": true
